@@ -2,7 +2,7 @@
 # Author: Atharva Bordavekar
 # Only for CTF purposes! 
 
-`Description: parafuzzer.py can help you find out hidden paramters and value pairs from a wordlist which covers almost all widely used parameters and their respective values which are use in CTF environment.`
+`Description: parafuzzer.py can help you find out hidden paramters and value pairs from a wordlist which covers almost all widely used parameters and their respective values which are used in CTF environment.`
 
 # How to use (Linux):
 clone the repository on your machine.
@@ -27,4 +27,4 @@ curl -s "http://<target>" | wc -c
 this will print out the size of the webpage in bytes. use this to answer the second prompt. after this you have to relax and wait for the output. depending on the parameter it could take anywhere between 1 minute to 5 minutes.
 
 # Logic of the script:
-
+lets understand the program using a flowchart 
