@@ -23,6 +23,7 @@ enter the default page size, i.e the size of the page when you visit the page wh
 curl -s "http://<target>" | wc -c
 ```
 ![image1](https://github.com/realatharva15/parameter-value_fuzzer/blob/main/images/parafuzzer.png)
+
 this will print out the size of the webpage in bytes. use this to answer the second prompt. after this you have to relax and wait for the output. depending on the parameter it could take anywhere between 1 minute to 5 minutes.
 
 # Logic of the script:
