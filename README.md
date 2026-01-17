@@ -28,3 +28,4 @@ this will print out the size of the webpage in bytes. use this to answer the sec
 
 # Logic of the script:
 lets understand the program using a flowchart 
+![image2](https://github.com/realatharva15/parameter-value_fuzzer/blob/main/images/flowchart.png)
